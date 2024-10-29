@@ -159,8 +159,8 @@
                     "sources": [
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/91/c0/104cb6244c83fe6bc3886f144cc433db0c0c78efac5dc00e409a5a08c87d/meson_python-0.16.0-py3-none-any.whl",
-                            "sha256": "842dc9f5dc29e55fc769ff1b6fe328412fe6c870220fc321060a1d2d395e69e8",
+                            "url": "https://files.pythonhosted.org/packages/7d/ec/40c0ddd29ef4daa6689a2b9c5ced47d5b58fa54ae149b19e9a97f4979c8c/meson_python-0.17.1-py3-none-any.whl",
+                            "sha256": "30a75c52578ef14aff8392677b09c39346e0a24d2b2c6204b8ed30583c11269c",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "meson_python",
@@ -179,8 +179,8 @@
                         },
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/aa/5f/bb5970d3d04173b46c9037109f7f05fc8904ff5be073ee49bb6ff00301bc/pyproject_metadata-0.8.0-py3-none-any.whl",
-                            "sha256": "ad858d448e1d3a1fb408ac5bac9ea7743e7a8bbb472f2693aaa334d2db42f526",
+                            "url": "https://files.pythonhosted.org/packages/e8/61/9dd3e68d2b6aa40a5fc678662919be3c3a7bf22cba5a6b4437619b77e156/pyproject_metadata-0.9.0-py3-none-any.whl",
+                            "sha256": "fc862aab066a2e87734333293b0af5845fe8ac6cb69c451a41551001e923be0b",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "pyproject_metadata",
