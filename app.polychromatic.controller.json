@@ -23,60 +23,6 @@
     "modules": [
         "python3-modules.json",
         {
-            "name": "sassc",
-            "cleanup": [
-                "*"
-            ],
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://github.com/sass/sassc/archive/3.6.2.tar.gz",
-                    "sha256": "608dc9002b45a91d11ed59e352469ecc05e4f58fc1259fc9a9f5b8f0f8348a03",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 12485,
-                        "stable-only": true,
-                        "url-template": "https://github.com/sass/sassc/archive/$version.tar.gz"
-                    }
-                },
-                {
-                    "type": "script",
-                    "dest-filename": "autogen.sh",
-                    "commands": [
-                        "autoreconf -si"
-                    ]
-                }
-            ],
-            "modules": [
-                {
-                    "name": "libsass",
-                    "cleanup": [
-                        "*"
-                    ],
-                    "sources": [
-                        {
-                            "type": "archive",
-                            "url": "https://github.com/sass/libsass/archive/3.6.6.tar.gz",
-                            "sha256": "11f0bb3709a4f20285507419d7618f3877a425c0131ea8df40fe6196129df15d",
-                            "x-checker-data": {
-                                "type": "anitya",
-                                "project-id": 11766,
-                                "stable-only": true,
-                                "url-template": "https://github.com/sass/libsass/archive/$version.tar.gz"
-                            }
-                        },
-                        {
-                            "type": "script",
-                            "dest-filename": "autogen.sh",
-                            "commands": [
-                                "autoreconf -si"
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "name": "openrazer-pylib",
             "no-autogen": true,
             "make-args": [
@@ -243,8 +189,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/polychromatic/polychromatic/archive/v0.9.3.tar.gz",
-                    "sha256": "8ec601bed283ff8c188d51066f7c761a3ff82bb72b0bafd6fd9b0c68329ab002"
+                    "url": "https://github.com/polychromatic/polychromatic/archive/v0.9.4.tar.gz",
+                    "sha256": "aa1a8b2a8f6ce0207298965ed829c88621b7abc5fcf6fe48705a91f47a95faf9"
                 },
                 {
                     "type": "patch",
