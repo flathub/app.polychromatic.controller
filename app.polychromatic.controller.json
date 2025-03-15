@@ -87,8 +87,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.10.0/openrazer-3.10.0.tar.xz",
-                    "sha256": "a1df14e09f1ba681be8ef041982e98a56f86d5a1ec31477996f906bcf0c8c217",
+                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.10.1/openrazer-3.10.1.tar.xz",
+                    "sha256": "5bb2bcf7f3246b4b26e1f6daf3bd70c3cb46b508376849c129c7a910363d458b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 243087,
@@ -193,8 +193,8 @@
                         },
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/e8/61/9dd3e68d2b6aa40a5fc678662919be3c3a7bf22cba5a6b4437619b77e156/pyproject_metadata-0.9.0-py3-none-any.whl",
-                            "sha256": "fc862aab066a2e87734333293b0af5845fe8ac6cb69c451a41551001e923be0b",
+                            "url": "https://files.pythonhosted.org/packages/7e/b1/8e63033b259e0a4e40dd1ec4a9fee17718016845048b43a36ec67d62e6fe/pyproject_metadata-0.9.1-py3-none-any.whl",
+                            "sha256": "ee5efde548c3ed9b75a354fc319d5afd25e9585fa918a34f62f904cc731973ad",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "pyproject_metadata",
@@ -212,8 +212,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://files.pythonhosted.org/packages/c1/d3/6be85a9c772d6ebba0cc3ab37390dd6620006dcced758667e0217fb13307/dbus-python-1.3.2.tar.gz",
-                            "sha256": "ad67819308618b5069537be237f8e68ca1c7fcc95ee4a121fe6845b1418248f8",
+                            "url": "https://files.pythonhosted.org/packages/ff/24/63118050c7dd7be04b1ccd60eab53fef00abe844442e1b6dec92dae505d6/dbus-python-1.4.0.tar.gz",
+                            "sha256": "991666e498f60dbf3e49b8b7678f5559b8a65034fdf61aae62cdecdb7d89c770",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "dbus-python"
