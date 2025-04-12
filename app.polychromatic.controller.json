@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.10.1/openrazer-3.10.1.tar.xz",
-                    "sha256": "5bb2bcf7f3246b4b26e1f6daf3bd70c3cb46b508376849c129c7a910363d458b",
+                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.10.2/openrazer-3.10.2.tar.xz",
+                    "sha256": "e727ac3f3aa9e8728116f5782ca8f0ab0ae63f7c70c128e73d127961b2e3e16a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 243087,
@@ -98,8 +98,8 @@
                     "sources": [
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/83/ec/ac383eb82792e092d8037649b382cf78a7b79c2ce4e5b861f61519b9b14e/patchelf-0.17.2.1.tar.gz",
-                            "sha256": "a6eb0dd452ce4127d0d5e1eb26515e39186fa609364274bc1b0b77539cfa7031",
+                            "url": "https://files.pythonhosted.org/packages/0d/41/dc3ee5838db2d90be935adb53ae7745135d9c719d070b1989b246f983c7f/patchelf-0.17.2.2.tar.gz",
+                            "sha256": "080b2ac3074fd4ab257700088e82470425e56609aa0dd07abe548f04b7b3b007",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "patchelf"
