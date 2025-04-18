@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.10.1/openrazer-3.10.1.tar.xz",
-                    "sha256": "5bb2bcf7f3246b4b26e1f6daf3bd70c3cb46b508376849c129c7a910363d458b",
+                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.10.2/openrazer-3.10.2.tar.xz",
+                    "sha256": "e727ac3f3aa9e8728116f5782ca8f0ab0ae63f7c70c128e73d127961b2e3e16a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 243087,
@@ -189,8 +189,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/polychromatic/polychromatic/archive/v0.9.4.tar.gz",
-                    "sha256": "aa1a8b2a8f6ce0207298965ed829c88621b7abc5fcf6fe48705a91f47a95faf9"
+                    "url": "https://github.com/polychromatic/polychromatic/archive/v0.9.5.tar.gz",
+                    "sha256": "a8c9c84f27d1ada1ce9d3da6ad4d6f361edc79f8e348c2206d19c3af4203a770"
                 },
                 {
                     "type": "patch",
