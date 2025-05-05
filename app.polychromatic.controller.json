@@ -45,25 +45,15 @@
             ],
             "modules": [
                 {
-                    "name": "python3-scikit-build",
+                    "name": "python3-scikit-build-core",
                     "buildsystem": "simple",
                     "build-commands": [
-                        "pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"scikit-build\" --no-build-isolation"
+                        "pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"scikit-build-core\" --no-build-isolation"
                     ],
                     "cleanup": [
                         "*"
                     ],
                     "sources": [
-                        {
-                            "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/12/b3/231ffd4ab1fc9d679809f356cebee130ac7daa00d6d6f3206dd4fd137e9e/distro-1.9.0-py3-none-any.whl",
-                            "sha256": "7bffd925d65168f85027d8da9af6bddab658135b840670a223589bc0c8ef02b2",
-                            "x-checker-data": {
-                                "type": "pypi",
-                                "name": "distro",
-                                "packagetype": "bdist_wheel"
-                            }
-                        },
                         {
                             "type": "file",
                             "url": "https://files.pythonhosted.org/packages/20/12/38679034af332785aac8774540895e234f4d07f7545804097de4b666afd8/packaging-25.0-py3-none-any.whl",
@@ -76,11 +66,21 @@
                         },
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/c3/a3/21b519f58de90d684056c52ec4e45f744cfda7483f082dcc4dd18cc74a93/scikit_build-0.18.1-py3-none-any.whl",
-                            "sha256": "a6860e300f6807e76f21854163bdb9db16afc74eadf34bd6a9947d3fdfcd725a",
+                            "url": "https://files.pythonhosted.org/packages/cc/20/ff623b09d963f88bfde16306a54e12ee5ea43e9b597108672ff3a408aad6/pathspec-0.12.1-py3-none-any.whl",
+                            "sha256": "a0d503e138a4c123b27490a4f7beda6a01c6f288df0e4a8b79c7eb0dc7b4cc08",
                             "x-checker-data": {
                                 "type": "pypi",
-                                "name": "scikit_build",
+                                "name": "pathspec",
+                                "packagetype": "bdist_wheel"
+                            }
+                        },
+                        {
+                            "type": "file",
+                            "url": "https://files.pythonhosted.org/packages/2f/ce/bed84766d74cf46620bb06162ed28157deb0f6f48440893ae3a5aa452d40/scikit_build_core-0.11.2-py3-none-any.whl",
+                            "sha256": "fd4f78362982b49bed33df7b14ec052101caf91dfa84ffafc414cbcd0d0cd06a",
+                            "x-checker-data": {
+                                "type": "pypi",
+                                "name": "scikit_build_core",
                                 "packagetype": "bdist_wheel"
                             }
                         }
