@@ -66,8 +66,8 @@
                         },
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/d2/fe/2257c71721aeab6a6e8aa1f00d01f2a20f58547d249a6c8fef5791f559fc/pathspec-1.0.1-py3-none-any.whl",
-                            "sha256": "8870061f22c58e6d83463cfce9a7dd6eca0512c772c1001fb09ac64091816721",
+                            "url": "https://files.pythonhosted.org/packages/32/2b/121e912bd60eebd623f873fd090de0e84f322972ab25a7f9044c056804ed/pathspec-1.0.3-py3-none-any.whl",
+                            "sha256": "e80767021c1cc524aa3fb14bedda9c34406591343cc42797b386ce7b9354fb6c",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "pathspec",
@@ -119,8 +119,8 @@
                     "sources": [
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/28/58/66db620a8a7ccb32633de9f403fe49f1b63c68ca94e5c340ec5cceeb9821/meson_python-0.18.0-py3-none-any.whl",
-                            "sha256": "3b0fe051551cc238f5febb873247c0949cd60ded556efa130aa57021804868e2",
+                            "url": "https://files.pythonhosted.org/packages/16/7f/d1b0c65b267a1463d752b324f11d3470e30889daefc4b9ec83029bfa30b5/meson_python-0.19.0-py3-none-any.whl",
+                            "sha256": "67b5906c37404396d23c195e12c8825506074460d4a2e7083266b845d14f0298",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "meson_python",
