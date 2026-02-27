@@ -76,8 +76,8 @@
                         },
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/66/fe/dddda3cf88b19c20fe449817fb571615289260fbd8c3537b0dc20decfa59/scikit_build_core-0.12.0-py3-none-any.whl",
-                            "sha256": "710bbc9483f09503a7aeaeff3f3871be210698a09dd9ce8a09df484edbfa60a6",
+                            "url": "https://files.pythonhosted.org/packages/7f/cf/821507c2785e4c52ccddf10f6bf70336577558ddb3e783c0dd2a85636843/scikit_build_core-0.12.1-py3-none-any.whl",
+                            "sha256": "21377eacbafa1ecad6110de3d9929b60c6ce95c05d43c954a131b412b941ea56",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "scikit_build_core",
