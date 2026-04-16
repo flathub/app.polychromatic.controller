@@ -2,16 +2,17 @@ diff --git a/sources/launchers/polychromatic.desktop b/sources/launchers/polychr
 index cca893d..7cd1592 100644
 --- a/sources/launchers/polychromatic.desktop
 +++ b/sources/launchers/polychromatic.desktop
-@@ -17,7 +17,7 @@
+@@ -20,8 +20,8 @@
+ Exec=polychromatic-controller
  Encoding=UTF-8
  Terminal=false
  Categories=Settings;HardwareSettings;
 -Actions=devices;effects;tray-applet;
 +Actions=devices;effects;
  StartupWMClass=polychromatic-controller
+ Keywords=RGB;Razer;Chroma;
  #presets;triggers;
- 
-@@ -54,12 +54,3 @@
+@@ -67,13 +67,3 @@
  #Name[nl]=Triggers bewerken
  #Icon=/usr/share/polychromatic/img/general/triggers.svg
  #Exec=polychromatic-controller --open triggers
@@ -21,6 +22,7 @@ index cca893d..7cd1592 100644
 -Name[de]=Tray-Anwendung
 -Name[fr]=Applet de la zone de notification
 -Name[nl]=Systeemvakpictogram
+-Name[pt_BR]=Applet de bandeja
 -Name[zh_CN]=托盘程序
 -Icon=/usr/share/polychromatic/img/general/tray-applet.svg
 -Exec=polychromatic-tray-applet
