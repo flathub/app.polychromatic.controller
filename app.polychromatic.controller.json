@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.12.1/openrazer-3.12.1.tar.xz",
-                    "sha256": "a5aa19ece0c44a2d2add0ebd6cf9ae896e6af061819dd86d74fd612f280de057",
+                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.12.2/openrazer-3.12.2.tar.xz",
+                    "sha256": "86d65b340837c92fa38f7344cd90f004a23e9b0805581126eed3b70285e6ac61",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 243087,
