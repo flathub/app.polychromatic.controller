@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.12.3/openrazer-3.12.3.tar.xz",
-                    "sha256": "f2cc75834bfe75a5ada6e11458212cea8b988668fa0e1a695c5ebb8c04514e65",
+                    "url": "https://github.com/openrazer/openrazer/releases/download/v3.12.4/openrazer-3.12.4.tar.xz",
+                    "sha256": "cda77f9213e9757bc1f874d1140df658681f5aafd0b88d216c2f509f2f0b3244",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 243087,
@@ -76,8 +76,8 @@
                         },
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/07/49/b2f0fbe3165d55c02e7f9eec6a10685d518af0ef6e919ff2f589c2d15c85/scikit_build_core-0.12.2-py3-none-any.whl",
-                            "sha256": "6ea4730da400f9a998ec3287bd3ebc1d751fe45ad0a93451bead8618adbc02b1",
+                            "url": "https://files.pythonhosted.org/packages/98/47/471ffd83e97c221bedb0c16ab8bdf6087683686c2bdbecda743b24c01002/scikit_build_core-1.0.0-py3-none-any.whl",
+                            "sha256": "3d52323489b3d83c87922e7bd5bd781cc4bcf0d43961eb565a78d28e74b98fef",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "scikit_build_core",
