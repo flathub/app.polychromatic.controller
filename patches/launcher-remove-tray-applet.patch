@@ -12,3 +12,18 @@ index cca893d..7cd1592 100644
  StartupWMClass=polychromatic-controller
  Keywords=RGB;Razer;Chroma;
  #presets;triggers;
+@@ -65,14 +65,3 @@
+ #Name[nl]=Triggers bewerken
+ #Icon=/usr/share/polychromatic/img/general/triggers.svg
+ #Exec=polychromatic-controller --open triggers
+-
+-[Desktop Action tray-applet]
+-Name=Tray Applet
+-Name[de]=Tray-Anwendung
+-Name[fr]=Applet de la zone de notification
+-Name[nl]=Systeemvakpictogram
+-Name[pt_BR]=Applet de bandeja
+-Name[ru]=Апплет в трее
+-Name[zh_CN]=托盘程序
+-Icon=/usr/share/polychromatic/img/general/tray-applet.svg
+-Exec=polychromatic-tray-applet
