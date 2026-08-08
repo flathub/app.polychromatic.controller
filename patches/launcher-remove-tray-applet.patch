@@ -1,10 +1,8 @@
 diff --git a/sources/launchers/polychromatic.desktop b/sources/launchers/polychromatic.desktop
-index cca893d..7cd1592 100644
 --- a/sources/launchers/polychromatic.desktop
 +++ b/sources/launchers/polychromatic.desktop
-@@ -22,8 +22,8 @@
+@@ -22,7 +22,7 @@
  Exec=polychromatic-controller
- Encoding=UTF-8
  Terminal=false
  Categories=Settings;HardwareSettings;
 -Actions=devices;effects;tray-applet;
@@ -12,7 +10,7 @@ index cca893d..7cd1592 100644
  StartupWMClass=polychromatic-controller
  Keywords=RGB;Razer;Chroma;
  #presets;triggers;
-@@ -65,14 +65,3 @@
+@@ -64,14 +64,3 @@
  #Name[nl]=Triggers bewerken
  #Icon=/usr/share/polychromatic/img/general/triggers.svg
  #Exec=polychromatic-controller --open triggers
