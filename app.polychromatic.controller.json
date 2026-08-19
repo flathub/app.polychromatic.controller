@@ -189,8 +189,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/polychromatic/polychromatic/archive/3036082025f76c7a985ecf50379263dd9d10562f.tar.gz",
-                    "sha256": "e3a8fce4922fd4cad008186cce129e0cd3072400bd492f874079a7b406d30ff7"
+                    "url": "https://github.com/polychromatic/polychromatic/archive/0e8d5028b27ad47d46cbd4220b4b83bc45a85142.tar.gz",
+                    "sha256": "d3c75f1bd06348d22f4bb5fb05b4f5d005d7800f1d4ca82fd9edef2e6ffabf2b"
                 },
                 {
                     "type": "patch",
