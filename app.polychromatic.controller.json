@@ -76,8 +76,8 @@
                         },
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/b7/b0/7ad8fa9aebb0835b2e20afebf1483cbe175d1612fe01e85042ce9ced8755/scikit_build_core-1.0.3-py3-none-any.whl",
-                            "sha256": "ae95427b7d3c14a6cf8bbfd4d901f6138ab64c99e20cbe8ea7d75cd26093f085",
+                            "url": "https://files.pythonhosted.org/packages/66/bc/e68458dbbe42123bb3b2d35c1412613367e0826fbe0327e109c114a556ff/scikit_build_core-1.1.0-py3-none-any.whl",
+                            "sha256": "ef439fc8b352913ef6e76257e3115a7910c9f294a2cf27781b6f571cf6cd0033",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "scikit_build_core",
@@ -119,8 +119,8 @@
                     "sources": [
                         {
                             "type": "file",
-                            "url": "https://files.pythonhosted.org/packages/9e/4f/03aeed5a32e7e8158d8c617fe65b622410db974fe02e3bd78da9689a44fd/meson_python-0.21.1-py3-none-any.whl",
-                            "sha256": "270bc9b78957c47e0aa1758ad616dba3f943d8f9cbdb944d318c3c1c7a49e4bd",
+                            "url": "https://files.pythonhosted.org/packages/96/62/0c1cf20fe158b0e623e78acbf5fb6de5f1410a408f65f727e4090497627b/meson_python-0.22.1-py3-none-any.whl",
+                            "sha256": "258fde948cf45aab5df23fcc9e17a9050ee73d4e1002fe6cf86519f61c414778",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "meson_python",
@@ -158,8 +158,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://files.pythonhosted.org/packages/ff/24/63118050c7dd7be04b1ccd60eab53fef00abe844442e1b6dec92dae505d6/dbus-python-1.4.0.tar.gz",
-                            "sha256": "991666e498f60dbf3e49b8b7678f5559b8a65034fdf61aae62cdecdb7d89c770",
+                            "url": "https://files.pythonhosted.org/packages/07/4a/7639053065589ebdb59edd2582884201416ebfcb7a9e1d6c54da50072729/dbus_python-1.5.0.tar.gz",
+                            "sha256": "ac94ce330879108e5d37105164cc14b595bdf9326d2ce4a5acad6c1ab2bf6476",
                             "x-checker-data": {
                                 "type": "pypi",
                                 "name": "dbus-python"
